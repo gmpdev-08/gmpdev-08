@@ -32,7 +32,7 @@ Currently, I’m developing my final project (**PAP**) — **LOUP**, a hybrid tr
 - Hybrid app development with Apache Cordova  
 - Flutter for modern Android app development  
 - UI/UX optimization with focus on secure and user-friendly design
-- 
+
 ---
 
 ## Interests & Goals
