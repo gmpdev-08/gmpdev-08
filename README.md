@@ -16,7 +16,6 @@ Currently, I’m developing my final project (**PAP**) — **LOUP**, a hybrid tr
 - **Languages:** PHP (procedural), HTML, CSS, JavaScript, SQL, Python
 - **Tools:** VSCode, GitHub, Laragon, Cordova, Arduino 
 - **Database:** MySQL
-- 
 ---
 
 ## 📌 Main Projects
